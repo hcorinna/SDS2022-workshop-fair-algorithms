@@ -9,7 +9,7 @@ To follow along with the exercises, you have two options:
 Clone the repository in the desired folder using the command
 
 ```
-git clone https://github.com/joebaumann/SDS2022-workshop-fair-algorithms.git
+git clone https://github.com/hcorinna/SDS2022-workshop-fair-algorithms.git
 ```
 
 Open Jupyter and navigate to the repository you cloned, then open the Jupyter Notebook you want to edit and start coding.
@@ -27,7 +27,7 @@ drive.mount("/content/gdrive")
 - Add a new code cell with: + Code
 ```
 %cd gdrive/MyDrive
-! git clone [https://github.com/joebaumann/SDS2022-workshop-fair-algorithms.git](https://github.com/hcorinna/SDS2022-workshop-fair-algorithms.git)
+! git clone https://github.com/hcorinna/SDS2022-workshop-fair-algorithms.git
 ```
 
 Now the repository has been saved to your Google Drive. Next, go to https://drive.google.com/, open the folder "SDS2022-workshop-fair-algorithms", and open the desired Jupyter Notebook: Open with > Google Colaboratory. This should allow you to run the notebooks without having to install Python.
